@@ -7,11 +7,6 @@
 * C++: Play with simple functions.
 * C++: Play with namespace.
 
-## Prerequisites (Before you start)
-<!--
-* Read the notes of the first week [Part 1: C++ Basics]({{ site.baseurl }}{% link 2020/data-structures/notes/week01a.md %}){:target="_blank"}
-* Install Qt Creator. See [Installing and running Qt Creator IDE]({{ site.baseurl }}{% link 2020/data-structures/notes/qt.md %}){:target="_blank"} -->
-
 ## Deadline
 
 **Saturday, 1st March 2020, 11:59 PM**.
