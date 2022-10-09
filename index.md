@@ -5,11 +5,7 @@
 Lecturer: Dr. Andrew Katumba  
 Teaching Assistants:  Alvin Mulumba, Paul Mugume  
 
-## Lecture Hours
-
-**Tuesday**, **1st slot** (+2nd slot each two weeks).
-
-## Section Hours
+## Lecture Time
 
 | Day | Time Slot |
 |-----|-----------|
@@ -23,7 +19,7 @@ Teaching Assistants:  Alvin Mulumba, Paul Mugume
 | Tuesday | **10am** to **4pm** |
 | Wednesday | **4pm** to **8pm** |
 
-Meeting by appointment only (aaaaaaa@gmail.com)
+Meeting by appointment only (katraxuk@gmail.com)
 
 
 ## Course Outline
