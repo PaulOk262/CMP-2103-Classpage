@@ -1,5 +1,4 @@
-# Data Structures \(SBE201\) - Spring 2019
-
+# Class information 2022/2023
 ## Teaching Staff
 
 Lecturer: Dr. Andrew Katumba  
