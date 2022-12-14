@@ -44,7 +44,7 @@ Meeting by appointment only (katraxuk@gmail.com)
 
 | Week | Data Structures & C++ | Link |
 |------|----------------------|-----------|
-| 1 | **Introduction**: Brief intro to C++ Basics, git and github  |[Assignment1]({{ site.baseurl }}{% link Test1.md %}){:target="_blank"}|
+| 1 | **Introduction**: Brief intro to C++ Basics, git and github  |[Assignment1]({{ site.baseurl }}{% link Tests/Test1.md %}){:target="_blank"}|
 | 2 | C++ Memory Model, C++ Pointers and References | Your Code Readability |
 | 3 | Static and Dynamic Arrays; Categorize your logic with `namespace` scopes;  | Processing command line arguments (`argc` & `argv`); Compilation of multiple files; Basic Unix commands; bitbucket |
 | 4 | Stacks (ADT); Queues (ADT); Linked Lists; Array-Based Stack; LL-Based Stack; Array-Based Queue; LL-Based Queue; Functions Overloading;  Naming conventions; Const correctness |   |
