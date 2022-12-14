@@ -7,6 +7,7 @@
 * Document your code using either in-code comments or the readme file.
 * Ensure to indicate your name, course and registration number in the readme file of your repository.
 * Raise your hand and communicate any issues to the TAs responsible during the exam.
+
 * The Test is 45 minutes
 * Answer only two questions
 * The question in Section A is compulsory
@@ -14,14 +15,14 @@
 
 # **Section A**
 
-## QUESTION
+## COMPULSORY QUESTION
 
 ### **Description**
 * Tom wants to quickly change any number he types into its corresponding word.
 * He is only interested in numbers between 0 and 9 inclusive.
 * For example; when he types 1, he wants to get out the word "one"
 
-### Write a function that takes in a number and returns its corresponding word
+### Write a function that takes in a number and returns its corresponding word and thus assists Tom.
 
 
 # **Section B**
