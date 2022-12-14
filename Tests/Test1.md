@@ -7,7 +7,6 @@
 * Document your code using either in-code comments or the readme file.
 * Ensure to indicate your name, course and registration number in the readme file of your repository.
 * Raise your hand and communicate any issues to the TAs responsible during the exam.
-
 * The Test is 45 minutes
 * Answer only two questions
 * The question in Section A is compulsory
@@ -36,7 +35,7 @@
 ### 2. Write a function that rounds of the value of the magnitude and angle to 2 decimal places and thus compute the polar co-ordinates rounded to 2-decimal places
        * Note that the angle should be computed in degrees and not radians.
 
-## Question Link
+### Question Link
 * To attempt this question;
     * Question Link: [Link]()
 
@@ -50,7 +49,7 @@
 
 ### Write a function that takes in two parameters: the day of the week (say d) and a certain number (say n) and returns a string identifying the day of the week n days after d.
  
-## Question Link
+### Question Link
 * To attempt this question;
     * Question Link: [Link]()
 
@@ -66,6 +65,6 @@
 	-   `I` is misinterpreted as `1`
 ### Write a function that takes in a string and replaces the errors (numbers) above with the corresponding character. 
 
-## Question Link
+### Question Link
 * To attempt this question;
     * Question Link: [Link]()
