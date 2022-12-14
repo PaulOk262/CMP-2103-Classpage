@@ -14,22 +14,26 @@
 
 # **Section A**
 
-## COMPULSORY QUESTION
+## QUESTION 1
 
 ### **Description**
 * Tom wants to quickly change any number he types into its corresponding word.
 * He is only interested in numbers between 0 and 9 inclusive.
-* For example; when he types 1, he wants to get out the word "one"
+* For example; 
+	* When he types 1, he wants to get out the word "one"
+	* When he types 9, he wants to get out the word "nine"
+	* When he types 2, he wants to get out the word "two"
+* Ensure the words are in lowercase letters.
 
 ### Write a function that takes in a number and returns its corresponding word and thus assists Tom.
 
 ### Question Link
 * To attempt this question;
-    * Question Link: [Link]()
+    * Question Link: [Link](https://classroom.github.com/a/m5N4fYeC)
 
 # **Section B**
 
-## QUESTION 1
+## QUESTION 2
 ### **Description**
  ![](Inclass_assgnment.png)
  ![](Inclass_assgnment_2.png)
@@ -40,10 +44,10 @@
 
 ### Question Link
 * To attempt this question;
-    * Question Link: [Link]()
+    * Question Link: [Link](https://classroom.github.com/a/WoW7nRfV)
 
 
-## QUESTION 2
+## QUESTION 3
 ### **Description**
 * Mary wants to compute what day of the week it will be after a given number of days have passed.
 * For example, 
@@ -54,10 +58,10 @@
  
 ### Question Link
 * To attempt this question;
-    * Question Link: [Link]()
+    * Question Link: [Link](https://classroom.github.com/a/6a5o8zct)
 
 
-## QUESTION 3
+## QUESTION 4
 ### **Description**
      
 * Character recognition software is widely used to digitise printed texts. Thus the texts can be edited, searched and stored on a computer.
@@ -70,4 +74,4 @@
 
 ### Question Link
 * To attempt this question;
-    * Question Link: [Link]()
+    * Question Link: [Link](https://classroom.github.com/a/o7plIzk_)
