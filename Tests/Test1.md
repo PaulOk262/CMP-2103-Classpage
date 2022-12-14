@@ -7,7 +7,6 @@
 * Document your code using either in-code comments or the readme file.
 * Ensure to indicate your name, course and registration number in the readme file of your repository.
 * Raise your hand and communicate any issues to the TAs responsible during the exam.
-
 * The Test is 45 minutes
 * Answer only two questions
 * The question in Section A is compulsory
