@@ -2,15 +2,15 @@
 
 
 # Instructions
-* Do not share your code with anyone else.
-* Any malpractice detected in your code will lead to an automatic 0.
-* Document your code using either in-code comments or the readme file.
-* Ensure to indicate your name, course and registration number in the readme file of your repository.
-* Raise your hand and communicate any issues to the TAs responsible during the exam.
-* The Test is 45 minutes
-* Answer only two questions
-* The question in Section A is compulsory
-* Choose any one question from Section B
+1. Do not share your code with anyone else.
+2. Any malpractice detected in your code will lead to an automatic 0.
+3. Document your code using either in-code comments or the readme file.
+4. Ensure to indicate your name, course and registration number in the readme file of your repository.
+5. Raise your hand and communicate any issues to the TAs responsible during the exam.
+6. The Test is 45 minutes
+7. Answer only two questions
+8. The question in Section A is compulsory
+9. Choose any one question from Section B
 
 # **Section A**
 
@@ -23,6 +23,9 @@
 
 ### Write a function that takes in a number and returns its corresponding word and thus assists Tom.
 
+### Question Link
+* To attempt this question;
+    * Question Link: [Link]()
 
 # **Section B**
 
