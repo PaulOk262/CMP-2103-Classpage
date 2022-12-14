@@ -40,21 +40,21 @@
 * To attempt this question;
     * Question Link: [Link]()
 
+
 ## QUESTION 2
 ### **Description**
- * After a hard quarter in the office you decide to get some rest on a vacation. 
- * So you will book a flight for you and your girlfriend and try to leave all the mess behind you.
-	* You will need a rental car in order for you to get around in your vacation. 
- * The manager of the car rental makes you some good offers.	
- * Every day you rent the car costs $40. If you rent the car for 7 or more days, you get $50 off your total. 
- * Alternatively, if you rent the car for 3 or more days, you get $20 off your total.
-	
-### Write a code that gives out the total amount for a given number of days. 
+* Mary wants to compute what day of the week it will be after a given number of days have passed.
+* For example, 
+	* Given that today is Tuesday. She should be able to know that after 120 days, it will be Wednesday.
+	* Given that today is Thursday. She should be able to know that after 20 days, it will be Wednesday. 
+
+### Write a function that takes in two parameters: the day of the week (say d) and a certain number (say n) and returns a string identifying the day of the week n days after d.
  
 ## Question Link
 * To attempt this question;
     * Question Link: [Link]()
- 
+
+
 ## QUESTION 3
 ### **Description**
      
